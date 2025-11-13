@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
         Cùng nhau thủ khoa Tin học
       </h2>
       <p className="mt-6 text-lg md:text-xl text-gray-300 max-w-2xl mx-auto">
-        Nơi chia sẻ kiến thức, kinh nghiệm và cùng nhau chinh phục những đỉnh cao trong lĩnh vực Công nghệ thông tin.
+        Nơi chia sẻ kiến thức, kinh nghiệm và cùng nhau thủ khoa môn Tin học.
       </p>
     </section>
   );
