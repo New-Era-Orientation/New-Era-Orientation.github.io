@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import logo from '@/assets/image.png';
 
 const Header: React.FC = () => {
   const [open, setOpen] = useState(false);
@@ -9,7 +10,7 @@ const Header: React.FC = () => {
         <a href="/" className="flex items-center space-x-3">
           {/* logo: nhỏ trên mobile, vuông bo góc */}
           <img
-            src="/assets/image.png"
+            src={logo}
             alt="Logo"
             className="h-8 w-8 md:h-10 md:w-10 rounded-lg object-cover"
           />
