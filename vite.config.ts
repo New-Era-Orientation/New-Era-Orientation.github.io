@@ -5,9 +5,9 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-        // Khi build production cho GitHub Pages đặt base thành "/home/" (hoặc "/<repo>/" của bạn).
-        // Khi dev giữ "/" để local vẫn chạy bình thường.
-        base: mode === 'production' ? '/home/' : '/',
+        // Site is now published at https://new-era-orientation.github.io/ (user/org site).
+        // Use root base "/" for both dev and production.
+        base: '/',
         server: {
             port: 3000,
             host: '0.0.0.0',
