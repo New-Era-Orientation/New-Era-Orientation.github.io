@@ -30,16 +30,16 @@ const Footer: React.FC = () => {
       <div className="container mx-auto flex flex-col items-center justify-center space-y-6">
         <p className="text-sm font-semibold text-gray-400 uppercase tracking-wider">Tham gia cộng đồng</p>
         <div className="flex items-center justify-center space-x-6 sm:space-x-8">
-          <SocialLink href="#" label="Zalo">
+          <SocialLink href="https://zalo.me/g/amgakz845" label="Zalo">
             <SiZalo size={24} />
           </SocialLink>
-          <SocialLink href="#" label="Facebook Fanpage">
+          <SocialLink href="https://www.facebook.com/profile.php?id=61581439181186" label="Facebook Fanpage">
             <FaFacebook size={24} />
           </SocialLink>
-          <SocialLink href="#" label="Facebook Group">
+          <SocialLink href="https://www.facebook.com/groups/toptin" label="Facebook Group">
             <FaFacebook size={24} />
           </SocialLink>
-          <SocialLink href="#" label="Discord">
+          <SocialLink href="https://discord.com/invite/dJbbjbHDpp" label="Discord">
             <FaDiscord size={24} />
           </SocialLink>
         </div>
