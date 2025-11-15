@@ -1,20 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎉 Chào mừng đến với NEO — New Era Orientation!
 
-# Run and deploy your AI Studio app
+NEO là cộng đồng hỗ trợ ôn thi tốt nghiệp môn Tin học, nơi bạn có thể:
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1XoFsFgUhO34x1y4z5DxL7wl5GkTbY0FK
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- ✅ Trao đổi & hỏi đáp: Giải đáp kiến thức, bài tập và thắc mắc.
+- ✅ Tài liệu & đề thi: Cập nhật tài liệu học tập, đề thi thử và đề tham khảo.
+- ✅ Kinh nghiệm & mẹo thi: Chia sẻ phương pháp ôn tập, chiến lược làm bài và mẹo đạt điểm cao.
